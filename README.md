@@ -1,4 +1,4 @@
-# Student Information System
+# CampusAI - Student Information System
 
 This is a NextJS application built with shadcn components and integrated with Genkit for AI features. It serves as a Student Information System with modules for managing student data, tracking grades, recording attendance, and providing AI-driven insights.
 
@@ -84,3 +84,12 @@ Contributions are welcome! Please follow the standard GitHub pull request proces
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Screesnshots
+
+![Screenshot-1](https://github.com/user-attachments/assets/87be4a2d-bec5-4c91-b820-5cb0b5cdfc5f)
+![Screenshot-2](https://github.com/user-attachments/assets/9872ebc3-a991-4fbd-bd30-b43a5871dec9)
+![Screenshot-3](https://github.com/user-attachments/assets/d7c4abd3-be9e-4d44-b536-4eaac49e2180)
+![Screenshot-5](https://github.com/user-attachments/assets/a6fae7c8-2440-469a-a1fd-a3c0d55885d4)
+![Screenshot-4](https://github.com/user-attachments/assets/92f30d6c-9b90-465b-a54c-dc50c9d6cea8)
+![Screenshot-6](https://github.com/user-attachments/assets/773bceaa-4aaa-49b3-9dee-72e5f55c856e)
